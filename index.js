@@ -14,3 +14,7 @@ const multiply = (a, b) => {
 const division = (a, b) => {
     return a / b;
 }
+
+const substract = (a, b) => {
+    return a - b;
+}

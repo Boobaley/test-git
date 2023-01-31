@@ -9,3 +9,8 @@ const sum = (a, b) => {
 const multiply = (a, b) => {
     return a * b;
 }
+
+
+const division = (a, b) => {
+    return a / b;
+}
